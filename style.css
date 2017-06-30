@@ -54,6 +54,11 @@ body {
 
 }
 
+.logo{
+	width: 50%;
+	margin: auto;
+}
+
 .logo img{
 	 margin-top: 20em;
 	 margin: auto;
