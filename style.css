@@ -54,14 +54,10 @@ body {
 
 }
 
-.logo{
-	width: 50%;
-	margin: auto;
-	margin-top; 20em;
-}
-
 .logo img{
-         width: 40%;
+	 width: 40%;
+	 margin-top: 20em;
+	 margin-left: 38em;
 }
 
 .content h2{
